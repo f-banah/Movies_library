@@ -1,5 +1,5 @@
 # My Movies
-Application for movies collection management. It can provide data about:
+Application for movies collection management. It provides Information about:
 
 - Movies
 - Actors
@@ -15,4 +15,6 @@ Application for movies collection management. It can provide data about:
 - Hibernate
 - MySQL
 - Thymeleaf
+
+
 
