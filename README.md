@@ -16,5 +16,7 @@ A web application for movies collection management. It provides information abou
 - MySQL
 - Thymeleaf
 
+# The attached file "Report.pdf" includes screens of the web application and detailed explanation.
+
 
 
