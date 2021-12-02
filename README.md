@@ -1,5 +1,5 @@
 # My Movies
-Application for movies collection management. It provides Information about:
+A web application for movies collection management. It provides Information about:
 
 - Movies
 - Actors
